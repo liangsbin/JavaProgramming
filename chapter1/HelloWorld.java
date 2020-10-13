@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthStyle;
-
 /**
  * 第一个Java程序
  * @author 梁胜彬
