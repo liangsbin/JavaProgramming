@@ -7,3 +7,6 @@ Java语言程序设计/面向对象程序设计授课资料
 ## 代码
 * [chapter1](https://github.com/liangsbin/JavaProgramming/tree/main/chapter1)
 * [chapter2](https://github.com/liangsbin/JavaProgramming/tree/main/chapter2)
+## 联系
+* EMail: liangsbin@126.com
+* QQ: 664315483
