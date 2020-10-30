@@ -1,16 +1,12 @@
-/**
- * 练习：Book的测试类
- * @author 梁胜彬
- * 2020-10-16
- */
 public class BookTest {
     public static void main(String[] args) {
-        Book b1,b2;
-        b1 = new Book("Java Programming",500);
-        b2 = new Book("Operation System",300);
-        b1.status = true;
-        b1.borrow("Java Program");
+        Book java;
+        java = new Book("Java Programming",300);
+        java.isbn="978-001-355-2-33";  //对象名.成员
+        System.out.println(java.toString());
 
-        b2.setMark(300);
+        java.setMark(200);
+
+        java.find("978-001-355-2-33");
     }
 }
